@@ -6,7 +6,7 @@
 - :books: Student at Mittuniversitetet, Web development, 120 higher education credits
 - 🔭 Currently working on something cool
 - 🌱 I’m currently learning MongoDB and C#
-- :email:  How to reach me: saragirke@hotmail.com
+- :email:  How to reach me: saragirke@hotmail.com / sagi1700@student.miun.se
 
 #### Briefly about me
 
