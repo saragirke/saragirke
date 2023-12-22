@@ -1,4 +1,4 @@
-![header](header.jpg)
+
 ### Hi there, I'm Sara 👋
 
 - 🔭 Currently working on something cool
