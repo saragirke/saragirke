@@ -2,8 +2,9 @@
 ### Hi there, I'm Sara 👋
 
 - 🔭 Currently working on something cool
-- :email:  How to reach me: saragirke@hotmail.com
-- Fullstack-developer
+- :computer: Fullstack-developer
+- :love_letter:  How to reach me: saragirke@hotmail.com
+
 
 
 
