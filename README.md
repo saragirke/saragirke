@@ -3,4 +3,4 @@
 
 🎓 Nyutexaminerad fullstackutvecklare från Mittuniversitetet (2023)  
 🧑‍⚖️ Socionom  
-🌐 Intresserad av tillgängliga och användarvänliga digitala lösninga
+🌐 Intresserad av tillgängliga och användarvänliga lösningar
