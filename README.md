@@ -1,10 +1,6 @@
 
 ### Hi there, I'm Sara 👋
 
-- 🔭 Currently working on something cool
-- :computer: Fullstack-developer
-- :love_letter:  How to reach me: saragirke@hotmail.com
-
-
-
-
+🎓 Nyutexaminerad fullstackutvecklare från Mittuniversitetet (2023) 
+🧑‍⚖️ Socionom
+🌐 Intresserad av tillgängliga och användarvänliga digitala lösninga
